@@ -4,5 +4,7 @@
 <ul>
     <li>
         <strong>Strogonoff de Frango</a> 🐓</strong> 
+		<strong>Pudim</a> 🍮</strong> 
+		<strong>Bolo de cenoura</a> 🥮</strong>
     </li>
 </ul>
