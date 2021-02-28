@@ -1,49 +1,51 @@
-<h1>Strogonoff de Frango</h1>👨‍🍳
+<h1>Strogonoff de Frango 👨‍🍳</h1>
 
-<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>Ingredientes</h3>📄
+<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Ingredientes 📄</h3>
 <ul>
     <li>
         <strong>3 peitos de frango cortados em cubos</a></strong>
     </li>
 	<li>
-        <strong>1 dente de alho picado</a></strong>🧄
+        <strong>1 dente de alho picado</a></strong> 🧄
     </li>
 	<li>
-        <strong>sal e pimenta a gosto</a></strong>🧂🌶️
+        <strong>sal e pimenta a gosto</a></strong> 🧂🌶️
     </li><li>
-        <strong>1 cebola picada</a></strong>🧅
+        <strong>1 cebola picada</a></strong> 🧅
     </li><li>
         <strong>2 colheres (sopa) de maionese</a></strong>
     </li><li>
         <strong>1 colher de manteiga</a></strong>
     </li>
 	</li><li>
-        <strong>1/2 copo de ketchup</a></strong>🍅
+        <strong>1/2 copo de ketchup</a></strong> 🍅
     </li>
 	</li><li>
         <strong>1/3 copo de mostarda</a></strong>
     </li>
 	</li><li>
-        <strong>1 copo de cogumelos</a></strong>🍄
+        <strong>1 copo de cogumelos</a></strong> 🍄
     </li>
 	</li><li>
         <strong>1 copo de creme de leite</a></strong>
     </li>
 	</li><li>
-        <strong>batata palha a gosto</a></strong>🥔
+        <strong>batata palha a gosto</a></strong> 🥔
     </li>
 </ul>
  
-<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>Modo de Preparo</h3>📄
-<ol><li>Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.</li></ol>
-<ol><li>Em uma frigideira grande, derreta a manteiga e doure a cebola.</li></ol>
-<ol><li>Junte o frango temperado até que esteja dourado.</li></ol>
-<ol><li>Adicione os cogumelos, o ketchup e a mostarda.</li></ol>
-<ol><li>Incorpore o creme de leite e retire do fogo antes de ferver.</li></ol>
-<ol><li>Sirva com arroz branco e batata palha.</li></ol> 
+<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Modo de Preparo 📄</h3>
+<ol>
+	<li>Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.</li>
+	<li>Em uma frigideira grande, derreta a manteiga e doure a cebola.</li>
+	<li>Junte o frango temperado até que esteja dourado.</li>
+	<li>Adicione os cogumelos, o ketchup e a mostarda.</li>
+	<li>Incorpore o creme de leite e retire do fogo antes de ferver.</li>
+	<li>Sirva com arroz branco e batata palha.</li>
+</ol>
 
-<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>Informações Adicionais</h3>📄
-O strogonoff, apesar de ser uma receita muito famosa entre os brasileiros, 
+<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> Informações Adicionais 📄</h3>
+<p align="justify">O strogonoff, apesar de ser uma receita muito famosa entre os brasileiros, 
 nasceu na Rússia e era um prato servido para nobreza russa. No Brasil, se 
 popularizou nos anos 1970 e era uma comida especial, servida em festas. 
 Não demorou muito, o strogonoff chegou nos pratos de todos os brasileiros 
@@ -67,4 +69,4 @@ Agora que você aprendeu como fazer strogonoff de frango, que tal preparar
 mais receitas deliciosas com esse ingrediente? Aqui no TudoGostoso você 
 encontra outras receitas superpráticas como o escondidinho, a 
 lasanha de frango com queijo, o salpicão de frango, fricassê, torta de frango,
- filé de frango à parmegiana, panqueca de frango desfiado e muito mais!
+ filé de frango à parmegiana, panqueca de frango desfiado e muito mais!</p>
