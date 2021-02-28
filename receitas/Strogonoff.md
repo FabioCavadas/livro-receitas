@@ -1,27 +1,48 @@
-#Strogonoff de Frango: Chiken
+<h1>Strogonoff de Frango</h1>👨‍🍳
 
-###**Ingredientes**
-* 3 peitos de frango cortados em cubos
-* 1 dente de alho picado
-* sal e pimenta a gosto
-* 1 cebola picada
-* 2 colheres (sopa) de maionese
-* 1 colher de manteiga
-* 1/2 copo de ketchup
-* 1/3 copo de mostarda
-* 1 copo de cogumelos
-* 1 copo de creme de leite
-* batata palha a gosto
+<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>Ingredientes</h3>📄
+<ul>
+    <li>
+        <strong>3 peitos de frango cortados em cubos</a></strong>
+    </li>
+	<li>
+        <strong>1 dente de alho picado</a></strong>🧄
+    </li>
+	<li>
+        <strong>sal e pimenta a gosto</a></strong>🧂🌶️
+    </li><li>
+        <strong>1 cebola picada</a></strong>🧅
+    </li><li>
+        <strong>2 colheres (sopa) de maionese</a></strong>
+    </li><li>
+        <strong>1 colher de manteiga</a></strong>
+    </li>
+	</li><li>
+        <strong>1/2 copo de ketchup</a></strong>🍅
+    </li>
+	</li><li>
+        <strong>1/3 copo de mostarda</a></strong>
+    </li>
+	</li><li>
+        <strong>1 copo de cogumelos</a></strong>🍄
+    </li>
+	</li><li>
+        <strong>1 copo de creme de leite</a></strong>
+    </li>
+	</li><li>
+        <strong>batata palha a gosto</a></strong>🥔
+    </li>
+</ul>
  
-###**MODO DE PREPARO**
- 1. Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
- 2. Em uma frigideira grande, derreta a manteiga e doure a cebola.
- 3. Junte o frango temperado até que esteja dourado.
- 4. Adicione os cogumelos, o ketchup e a mostarda.
- 5. Incorpore o creme de leite e retire do fogo antes de ferver.
- 6. Sirva com arroz branco e batata palha.
+<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>Modo de Preparo</h3>📄
+<ol><li>Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.</li></ol>
+<ol><li>Em uma frigideira grande, derreta a manteiga e doure a cebola.</li></ol>
+<ol><li>Junte o frango temperado até que esteja dourado.</li></ol>
+<ol><li>Adicione os cogumelos, o ketchup e a mostarda.</li></ol>
+<ol><li>Incorpore o creme de leite e retire do fogo antes de ferver.</li></ol>
+<ol><li>Sirva com arroz branco e batata palha.</li></ol> 
 
-###**INFORMAÇÕES ADICIONAIS**
+<h3><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji>Informações Adicionais</h3>📄
 O strogonoff, apesar de ser uma receita muito famosa entre os brasileiros, 
 nasceu na Rússia e era um prato servido para nobreza russa. No Brasil, se 
 popularizou nos anos 1970 e era uma comida especial, servida em festas. 
